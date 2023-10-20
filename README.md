@@ -1,1 +1,1 @@
-# WordFinder
+# WordFinder a REGex miniProject
